@@ -17,7 +17,13 @@
     width: 100%;
 }
 
-.elenco {}
+.a{}
+
+.elenco {
+    width: 174px;
+    margin-left: 718px;
+    height: 181px;
+}
 
 .p1{
     float: left;
