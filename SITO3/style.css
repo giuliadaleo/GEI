@@ -17,10 +17,12 @@
     width: 100%;
 }
 
-.a{}
+.a{
+    color: #FFFFFF;
+}
 
 .elenco {
-    width: 174px;
+    width: 179px;
     margin-left: 718px;
     height: 181px;
 }
@@ -45,20 +47,20 @@
     width: 960px;
     margin: 0 auto;
     background-color: #fff;
-    height: 1643px;
     background-attachment: scroll;
     background-size: 100% auto;
-    background-position: 0% -25%;}
+    background-position: 0% -25%;
+}
 
 #container:hover {
     width: 960px;
     margin: 0 auto;
     background-color: #fff;
-    height: 1643px;
     background-attachment: scroll;
     background-size: 100% auto;
     background-position: 0% -71px;
-    transition: all 1s;}
+    transition: all 1s;
+}
 
 #header{
     width: 920px;
